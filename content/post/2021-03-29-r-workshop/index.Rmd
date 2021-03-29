@@ -6,7 +6,6 @@ output:
   html_document:
     df_print: paged
   pdf_document: null
-bibliography: references.bib
 documentclass: paper
 fontsize: 12
 header-includes:
@@ -29,6 +28,7 @@ header-includes:
 - \setlength{\parindent}{4em}
 - \setlength{\parskip}{0em}
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE,
