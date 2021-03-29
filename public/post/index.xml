@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Hugo website</title>
-    <link>/</link>
-    <description>Recent content on A Hugo website</description>
+    <title>Posts on A Hugo website</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Started with RStudio</title>
       <link>/2021/03/16/getting-started-with-rstudio/</link>
@@ -14,15 +14,6 @@
       
       <guid>/2021/03/16/getting-started-with-rstudio/</guid>
       <description>Many Roads to Success!When first learning to code in R students often feel like there is exactly one way to get to a desired result. One way to load data, one way to draw a density plot, one way to run a regression—this is (emphatically) not true! In almost every case, there are multiple perfectly legitimate ways to conduct an analysis and generate the output you seek, which is great news for a new student!</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
     </item>
     
   </channel>
